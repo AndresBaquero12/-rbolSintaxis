@@ -18,3 +18,7 @@ python arbol.py gram.txt prueba.txt
 Puse varias pruebas y unas pues con errores lexicos, para hacer testeos logicos. 
 
 <img width="956" height="592" alt="image" src="https://github.com/user-attachments/assets/c39b377f-106c-45e6-96b7-bba8927f76b7" />
+
+Caso errores:
+
+<img width="653" height="192" alt="image" src="https://github.com/user-attachments/assets/2df631f5-e881-48d2-9f14-35cdd2964812" />
