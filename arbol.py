@@ -197,7 +197,7 @@ class AnalizadorSintactico:
             return None
 
 def ejecutar_principal():
-    print("🌳 ANALIZADOR DE ÁRBOLES DE SINTÁXIS")
+    print("Analisador arbol sintaxis")
     print("=" * 50)
     
     analizador = AnalizadorSintactico("gra.txt")
