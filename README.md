@@ -4,7 +4,9 @@ En este repositorio esta el trabajo de arbol de sintaxis relacionado a la gramat
 
 ## Prerrequisitos
 - Python 3.6+
-- Librerías: `re` 
+- Librerías: `re`
+- matplotlib
+- networkx 
 
 ### Ejecutable:
 principalmente es importante tener los 3 archivos 'arbol.py''gra.txt''pruebas.txt'.
